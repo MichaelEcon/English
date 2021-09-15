@@ -19,6 +19,8 @@ I had just lost fifty pounds and I felt very upset.
 
 The manager was sympathetic, but he could do nothing.
 
+- It may be better to use *'he could do nothing'* rather than *'he couldn't do anything'*.
+
 > “现在大家都丢钱，” 他说。 
 
 "Everyone's losing money these days." he said.
