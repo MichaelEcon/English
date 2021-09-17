@@ -39,4 +39,25 @@ The Latin root *tax* means **to arrange**.
 
 > *It is also often used* when talking about writing; nonfiction writers must often *synthesize* large amounts of material from many sources to produce a book--which **represents** a **synthesis** of the important materials.
 
-- It is also often used:
+- It is also often used.
+- 'Which represents' = 'which means'?
+
+> An electronic **synthesizer** creates new sounds (which may imitate the sounds of *acoustic instruments*) by generating different basic tones and then manipulating and merging them together with others.
+
+## Synergy
+
+The Greek root *nergy* means 'work'.
+
+> The increased effectiveness that results when two or more people or businesses work together.
+
+- **Effectiveness**
+- Work together may mean 'merge' when we talk about a business environment.
+- **Businesses**: when we talk about company or firm, we can use business instead of these words.
+
+*With the first company's importance in print media and the second's success on the Web, everyone was convinced that the merger would result in an awesome synergy.*
+
+- Everyone was convinced that
+- Would result in
+- An awesome synergy
+
+
