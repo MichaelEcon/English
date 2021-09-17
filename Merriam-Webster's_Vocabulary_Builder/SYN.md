@@ -56,8 +56,9 @@ The Greek root *nergy* means 'work'.
 
 *With the first company's importance in print media and the second's success on the Web, everyone was convinced that the merger would result in an awesome synergy.*
 
+- **With = because of** in this sentence
 - Everyone was convinced that
 - Would result in
 - An awesome synergy
 
-
+> An old saying, 'The whole is greater than the sum of its parts,' ~~express~~ expresses the basic meaning of *synergy*.
