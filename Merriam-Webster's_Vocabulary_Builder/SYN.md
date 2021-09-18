@@ -4,7 +4,7 @@
 > So **in sync** (short for *in synchronization*) means "together in time".  
 > And a **synonym** (|sinenim|) is a word that can be considered with another word since it has the same meaning.
 
-## 'syntax
+## 'Syntax
 
 The Latin root *tax* means **to arrange**.
 
@@ -87,10 +87,28 @@ The root drome means 'run'.
 
 ### The example is about Parkinson's disease
 
-*When there is no trembling--the most obvious symptom of Parkinson's disease, most doctor fail to recognize the Parkinson's syndrome.*
+*When there is no trembling--the most obvious symptom of Parkinson's disease, most doctors fail to recognize the Parkinson's syndrome.*
 
 - The most obvious symptom of Parkinson's disease is trembling.
 - The doctor most likely fail to recognize this disease if the symptom have not appeared.
+- This situation may because of that the symptom other than trembling can be confusing with another disease, that is, it may be caused by another disease, and the doctor cannot identify which of them is the real cause.
 
-### About the history of syndrome
+### Syndrome when the doctor diagnose
 
+> Combining its two Greek roots, *syndrome* means basically 'running together'.  
+
+> So when diagnosing a condition or disease, doctors tend to **look for a group of symptoms existing together.**  
+> As long as a set of symptoms remains mysterious, it may be referred to a specific *syndrome*.  
+> But if that name is used for a while, it may become the condition's permanent name, even after an underlying cause has been found.  
+> So today we have
+
+- Down syndrome (also known as trisomy 21)
+- Acquired immune deficiency syndrome (AIDS, which is caused by HIV)
+- Asperger's syndrome (an autism spectrum disorder)
+- Carpal tunnel syndrome (a condition that causes pain and weakness in the wrist, hand, and fingers)
+- Chronic fatigue syndrome (symptoms include long-term tired, headaches and weakness)
+- Tourette's syndrome (a disorder that causes someone to move and speak in an uncontrolled way)
+- sick building syndrome (a condition in which people in a building suffer from symptoms of illness or become infected with chronic disease from the building in which they work or reside [Wikipedia: SBS](https://en.wikipedia.org/wiki/Sick_building_syndrome))
+
+> And many more.  
+> Since mental conditions often turn out to have physical causes, *syndrome* is used in psychology as well as medicine.
