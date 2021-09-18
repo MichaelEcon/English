@@ -62,3 +62,16 @@ The Greek root *nergy* means 'work'.
 - An awesome synergy
 
 > An old saying, 'The whole is greater than the sum of its parts,' ~~express~~ expresses the basic meaning of *synergy*.
+
+### Sometimes in a purely physical sense
+
+> The word is sometimes used in a purely physical sense, especially when talking about drugs;  
+> Sometimes a 'cocktail' of drugs ~~is~~ may be more effective than the sum of the effectiveness of each of the separate drugs.
+
+
+### Best known in the world of business (in the case of merger)
+
+> But the word is best known in the world of business.  
+> The notion that, when the right two ~~company~~ companies merge, they'll produce a profitable *synergy* seemed exciting in the 1990s, when *synergy* became a **trendy buzzword** (even though it's usually been around since the 17th century).  
+> The idea of synergy was one factor in what became a 'merger mania', unfortunately, business synergy often turned out to be harder to achieve than to imagine.
+
