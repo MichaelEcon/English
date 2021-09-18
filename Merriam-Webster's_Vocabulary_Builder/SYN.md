@@ -75,3 +75,22 @@ The Greek root *nergy* means 'work'.
 > The notion that, when the right two ~~company~~ companies merge, they'll produce a profitable *synergy* seemed exciting in the 1990s, when *synergy* became a **trendy buzzword** (even though it's usually been around since the 17th century).  
 > The idea of synergy was one factor in what became a 'merger mania', unfortunately, business synergy often turned out to be harder to achieve than to imagine.
 
+## Syndrome
+
+The root drome means 'run'.
+
+> A group of signs and symptoms that occur together and characterize a particular abnormality or condition.
+
+- A **group** of signs and symptoms
+- occur **together**
+- can be used to characterize a particular **abnormality or condition** (so the words **abnormality and condition** both can be used to describe a situation when our body or mental condition is abnormal.)
+
+### The example is about Parkinson's disease
+
+*When there is no trembling--the most obvious symptom of Parkinson's disease, most doctor fail to recognize the Parkinson's syndrome.*
+
+- The most obvious symptom of Parkinson's disease is trembling.
+- The doctor most likely fail to recognize this disease if the symptom have not appeared.
+
+### About the history of syndrome
+
