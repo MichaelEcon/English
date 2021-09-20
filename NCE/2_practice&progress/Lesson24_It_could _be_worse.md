@@ -2,7 +2,6 @@
 
 ## Had the writer's money been stolen?
 
-
 > 我走进饭店经理的办公室，坐了下来。  
 
 I entered the hotel manager's office and sat down.
@@ -46,4 +45,5 @@ It contained fifty pounds.
 > “是啊，” 我对那位经理说， “这个世界上还是有诚实可言的！”
 
 'All right," I said to the manager, "there is still some honesty in this world!'
+
 - All right → Well
