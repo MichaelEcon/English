@@ -8,7 +8,7 @@
 
 The Latin root *tax* means **to arrange**.
 
-> The way in which words are put together to form phrases, clauses, or sentences.
+> The way in which words are put together to form phrases, **clauses** (|cloz|), or sentences.
 
 *The president's critics complain about his odd and confusing syntax when he speaks in public.*  
 

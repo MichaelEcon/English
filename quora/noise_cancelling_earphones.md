@@ -15,7 +15,7 @@
 
 > Tinnitus fits the definition of insanity.
 
-- Fit the definition of 
+- Fit the definition of
 - Insanity
 
 > Imagine every moment of your day being punctuated by a deafening high-pitched noise. That’s what my life is now like.
