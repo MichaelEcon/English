@@ -17,6 +17,7 @@ The Latin root *tax* means **to arrange**.
 > Syntax is basically about what word comes before and after another word, in other words, it's part of **the larger subject of** grammar.  
 > Syntax is often an issue in poetry, and it's usually discussed in connection with **diction**(|dikshion|) — that is, *the poet's choice of words*.  
 
+- in connection with
 - Syntax: the arrangement of words
 - Diction: the choice of words
 
